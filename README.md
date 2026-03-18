@@ -19,7 +19,35 @@ Projeto de análise exploratória e visualização de dados do Brasileirão 2019
 
 ---
 
-## 🛠️ Ferramentas
+## 🧹 Tratamento de Dados
 
-- Excel
-- Power BI
+- Limpeza e organização da base de dados no Excel
+- Criação de colunas calculadas:
+  - Gols a favor
+  - Gols sofridos
+  - Resultado (Vitória, Empate, Derrota)
+  - Saldo de gols
+  - Pontuação por partida
+- Padronização das informações para análise
+
+---
+
+## 📊 Desenvolvimento do Dashboard
+
+- Construção do dashboard no Power BI
+- Criação de indicadores principais:
+  - Pontos totais
+  - Gols marcados e sofridos
+  - Aproveitamento
+  - Total de jogos
+- Análise visual:
+  - Distribuição de resultados (V/E/D)
+  - Comparação de desempenho em casa e fora
+- Aplicação de filtros (ano e competição)
+
+---
+
+## 🛠️ Ferramentas Utilizadas
+
+- Excel (tratamento e preparação dos dados)
+- Power BI (visualização e criação do dashboard)
