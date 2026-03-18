@@ -1,6 +1,8 @@
 # 🔴⚫ Análise de Dados — Flamengo 2019
 
-Projeto de análise exploratória e visualização de dados do Brasileirão 2019.
+## 🎯 Objetivo
+
+Analisar a campanha do Flamengo no Brasileirão 2019, identificando padrões de desempenho, aproveitamento e consistência ao longo da competição.
 
 ---
 
@@ -14,7 +16,7 @@ Projeto de análise exploratória e visualização de dados do Brasileirão 2019
 
 - 90 pontos conquistados
 - 86 gols marcados
-- Aproveitamento de aproximadamente 79%
+- Aproveitamento de 79%
 - Forte desempenho em casa e fora
 
 ---
